@@ -9,7 +9,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Podaj wielkość wpłaty: ");
         double payment = scanner.nextDouble();
-        System.out.println("Podaj czas inwestycji w miesiącach miesięcy: ");
+        System.out.println("Podaj czas inwestycji w miesiącach: ");
         double months = scanner.nextDouble();
         System.out.println("Podaj wielkość miesięcznego oprocentowania: ");
         double procent = scanner.nextDouble();
